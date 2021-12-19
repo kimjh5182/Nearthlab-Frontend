@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="88" height="34" viewBox="0 0 88 34">
+    <g fill="none" fill-rule="evenodd">
+        <rect width="88" height="34" fill="#DFE3EA" rx="17"/>
+        <rect width="32" height="26" x="4" y="4" fill="#F6F6F7" rx="13"/>
+        <text fill="#ADAFB6" font-family="NotoSansCJKkr-Medium, Noto Sans CJK KR" font-size="13" font-weight="400">
+            <tspan x="42.56" y="22">미완료 </tspan>
+        </text>
+    </g>
+</svg>
